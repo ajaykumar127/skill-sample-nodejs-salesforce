@@ -1,4 +1,4 @@
-# Private Alexa Skill With Salesforce Integration
+# Private Alexa Skill With Salesforce Sales Cloud + Marketing Cloud ( JB + Social Studio ) Integration
 
 <img src="https://m.media-amazon.com/images/G/01/mobile-apps/dex/alexa/alexa-skills-kit/tutorials/quiz-game/header._TTH_.png" />
 
