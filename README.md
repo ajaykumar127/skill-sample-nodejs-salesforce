@@ -40,7 +40,7 @@ Alexa, open Salesforce Demo
 ```
 Integration Details : 
 
-1. **Salesforce Setup** - Set up a Salesforce org using Trailhead Playground.
+1. **Salesforce Setup** - Set up a Salesforce org using Salesforce .
 2. **Deploy** - Customize and deploy the provided skill. 
 3. **Account Linking** - Create a Connected App in Salesforce to use for Account Linking to the Alexa skill.
 4. **Testing** - Make sure everything works.
